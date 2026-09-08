@@ -34,7 +34,7 @@ This repo showcases the architecture and design. The complete,
 buildable Android Studio project (39 files, fully commented) is
 available here:
 
-👉 **[Get ByteSpend on Gumroad](your-link)**
+👉 **[Get ByteSpend on Gumroad](https://nmutdbiz.gumroad.com/l/asxtpe)**
 
 ## License
 
