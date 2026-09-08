@@ -35,7 +35,7 @@ buildable Android Studio project (39 files, fully commented) is
 available here:
 
 👉 **[Get ByteSpend on Gumroad](https://nmutdbiz.gumroad.com/l/asxtpe)**
-👉 **[Get ByteSpend on Buy Me a Coffrr](https://buymeacoffee.com/nm_utd/e/573827)**
+👉 **[Get ByteSpend on Buy Me a Coffee](https://buymeacoffee.com/nm_utd/e/573827)**
 
 ## License
 
