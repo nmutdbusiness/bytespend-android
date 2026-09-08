@@ -26,7 +26,7 @@ Navigation Compose
 
 | Dashboard | Add Transaction | Budget |
 |---|---|---|
-| ![](assets/dashboard.png) | ![](assets/add.png) | ![](assets/budget.png) |
+| ![](budget.jpeg) | ![](history.jpeg) | ![](dashboard.jpeg) |
 
 ## Get the full source
 
@@ -35,6 +35,7 @@ buildable Android Studio project (39 files, fully commented) is
 available here:
 
 👉 **[Get ByteSpend on Gumroad](https://nmutdbiz.gumroad.com/l/asxtpe)**
+👉 **[Get ByteSpend on Buy Me a Coffrr](https://buymeacoffee.com/nm_utd/e/573827)**
 
 ## License
 
